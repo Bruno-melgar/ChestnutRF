@@ -46,7 +46,8 @@ Can be found in the publication, will be linked to the dataset once published on
 - **This dataset contains the following files:**
   - **RF_Chestnut** file (Excel file consisting of separate sheets per experiment)
   - **Metadata** file (Excel file with explanations of all variables per datasheet)
-  - Code file **ChestnutRF.R** includes the all analyses conducted in the manuscript
+  - Code file **ChestnutRF.R** includes the all analyses and plots conducted in the report
+  - Code file **Factorial analysis.R** includes the pre-screening factorial analysis conducted in the report
 
 *This dataset is published under the CC BY (Attribution) license.
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.*
